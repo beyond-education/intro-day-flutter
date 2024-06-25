@@ -1,2 +1,3 @@
-# intro-day-flutter
-Starter repository for the Intro Day Dart &amp; Flutter programming challenge
+# Intro Day - Programming Challenge Dart & Flutter
+
+Enjoy learning programming with Dart & Flutter at the Intro Day.
